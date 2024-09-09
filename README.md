@@ -16,7 +16,7 @@ This project is a **Project Management System** built using **Node.js**, **Expre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/VIVEKJHA7777/Admin_Panel
+   git clone https://github.com/thevaibhavjain/BackendBoardInfinity
    ```
 2. Install dependencies:
    ```bash
@@ -36,7 +36,9 @@ This project is a **Project Management System** built using **Node.js**, **Expre
    npm start
    ```
 ### Hosted Website Link
-[Admin Panel]
+[Admin Panel](https://backendboardinfinity.onrender.com)
+
+https://backendboardinfinity.onrender.com
 
 
 
