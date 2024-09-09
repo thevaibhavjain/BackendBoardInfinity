@@ -36,9 +36,9 @@ This project is a **Project Management System** built using **Node.js**, **Expre
    npm start
    ```
 ### Hosted Website Link
-[Admin Panel](https://admin-panel-7hqs.onrender.com)
+[Admin Panel]
 
-https://admin-panel-7hqs.onrender.com
+
 
 
 ## Project Routes
